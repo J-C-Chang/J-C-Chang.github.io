@@ -1,0 +1,3 @@
+[submodule "covid19-globe-tracker"]
+	path = covid19-globe-tracker
+	url = https://github.com/tanmaylaud/covid19-globe-tracker.git
